@@ -1,4 +1,4 @@
-## 使用node redis模块连接redis数据库
+## 使用node redis模块连接redis数据库
 ```bash
 npm install redis
 ```
